@@ -1,0 +1,20 @@
+{
+  "name": "SensorProject",
+  "version": "1.0.0",
+  "description": "Sensor data reporter for Aimees Garden",
+  "main": "main.js",
+  "repository": "https://github.com/rg-epicodus/FarmSensorReport",
+  "author": "richmgarrick@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "browserify": "^16.0.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
